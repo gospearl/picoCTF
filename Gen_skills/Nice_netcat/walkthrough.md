@@ -9,6 +9,7 @@ with the shell. This will give you more info about the output
 ![img](images/netcat1.png)
 
 Save the output to a file
+
 ![img2](images/netcat2.png)
 
 Step 2:
