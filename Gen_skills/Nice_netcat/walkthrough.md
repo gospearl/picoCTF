@@ -1,10 +1,10 @@
-Description
-There is a nice program that you can talk to by using this command in a shell: 
-$ nc mercury.picoctf.net 43239, but it doesn't speak English...
+![img1](images/description.png)
 
 Walkthrough:
 
-Step 1: tpye the command: nc mercury.picoctf.net 43239 to get more info 
-about the output
+Step 1: Use the command: nc mercury.picoctf.net 43239 to interact 
+with the shell. This will give you more info about the output
 
 ![img](images/netcat1.png)
+
+
