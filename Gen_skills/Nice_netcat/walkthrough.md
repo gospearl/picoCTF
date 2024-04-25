@@ -2,7 +2,6 @@
 
 ![img1](images/FullDes.png)
 
-## **Walkthrough:**
 Use the command: nc mercury.picoctf.net 43239 to interact 
 with the shell. This will give you more info about the output.
 Save the output to a file
