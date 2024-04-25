@@ -1,18 +1,15 @@
-![img1](images/description.png)
+#NICE NETCAT
 
-Walkthrough:
+![img1](images/FullDes.png)
 
-Step 1:
+#Walkthrough:
 Use the command: nc mercury.picoctf.net 43239 to interact 
 with the shell. This will give you more info about the output
-
-![img](images/netcat1.png)
 
 Save the output to a file
 
 ![img2](images/netcat2.png)
 
-Step 2:
 On examining the output, you can see that it is in ascii. 
 Convert to characters using this command
 
